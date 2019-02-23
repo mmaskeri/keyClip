@@ -2,7 +2,7 @@
 == keyClip ==
 =============
 
-Copyright (c) 2019 Mark Maskeri (see LICENSE.txt)
+Copyright (c) 2019 Mark A. Maskeri (see LICENSE.txt)
 
 Provides round-trip editing between post-Keynote '09 versions and ChemDraw
 
