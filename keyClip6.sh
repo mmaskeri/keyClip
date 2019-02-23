@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-### Copyright (c) 2019 Mark Maskeri (see LICENSE.txt)
+### Copyright (c) 2019 Mark A. Maskeri (see LICENSE.txt)
 
 ### setup
 
