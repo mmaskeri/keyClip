@@ -46,7 +46,7 @@ Setup
 
 Usage
 -----
-Select the _ungrouped_ scheme desired in Keynote and use the shortcut established in step 5 above.  A Terminal window should open, run the script, and close.  If this is the first time using the script, or if there is a heavy processor load, the Terminal may prompt a close error.  Keep Terminal active in your Dock to avoid this.  If these errors persist, see below.
+Select the _ungrouped_ scheme desired in Keynote and use the shortcut established in step 4 above.  A Terminal window should open, run the script, and close.  If this is the first time using the script, or if there is a heavy processor load, the Terminal may prompt a close error.  Keep Terminal active in your Dock to avoid this.  If these errors persist, see below.
 
 If keyClip does not find a CDXML object--indicated in text in the Terminal window that flashes up on screen--verify that the Keynote object in question is ungrouped and was a ChemDraw object to begin with.
 
