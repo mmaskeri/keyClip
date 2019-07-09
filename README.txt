@@ -43,7 +43,7 @@ Setup
     - Open the "Accessibility" panel from the left list
     - Add the app `Automator` to the right list, checking the box
     ! This is necessary for the keyClip script to automate required keystrokes
-    ! Additional privileges may need to be granted to Keynote and ChemDraw
+    ! Additional Accessibility privileges may need to be granted to Keynote, Terminal, and ChemDraw
 
 Usage
 -----
