@@ -16,7 +16,7 @@ Setup
 
 1. Move these files to /Users/YOUR_USER_NAME_HERE/Library/Services:
     - ChemDraw_CDXML
-    - keyClip_workflow
+    - keyClip_workflow (required for ChemDraw 18 or earlier)
 
 2. Move keyClip6.sh to /Users/YOUR_USER_NAME_HERE/Library/Scripts
     ! If the folder "Scripts" does not exist in Library, please create it first
