@@ -39,7 +39,7 @@ for i in range(0,count):
   # search through for XML blobs
   retrieve = str(pboard.dataForType_(type))
   fVal = retrieve.find(\"/XML\")
-  cVal = retrieve.find(\"ChemDraw\")
+  cVal = retrieve.find(\"chemdraw\")
 
   # matched TSPData and found XML blob therein
   if (fVal != -1) and (cVal != -1):
