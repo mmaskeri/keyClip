@@ -55,6 +55,7 @@ if fVal == -1:
 # [1:] clips off remaining newline, retains zlib header b'x(escape)x9c'
 # CDXML blob should be only XML data blob on pasteboard
 # if Adobe changes PDF file format, can adjust using cambridgesoft tag
+# note "ChemDraw" tag inconsistently served; adjusted for cval above to "chemdraw" as part of the "cambridgesoft" tag
 CDXML = zlib.decompress(rawSTR.split(\"/XML\")[1].split(\"endstream\")[0].split(\"stream\")[1][1:])
 
 # spawn pbcopy process and paste CDXML to clipboard
