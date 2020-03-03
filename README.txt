@@ -15,8 +15,8 @@ Setup
 0. [if your Library is hidden, open Terminal and enter command "open ~/Library"; or, open Finder, and from the navigation bar choose "Go > Library"]
 
 1. Move these files to /Users/YOUR_USER_NAME_HERE/Library/Services:
-    - ChemDraw_CDXML
-    - keyClip_workflow (required for ChemDraw 18 or earlier)
+    - ChemDraw_CDXML (required for ChemDraw 18 or earlier)
+    - keyClip_workflow
 
 2. Move keyClip6.sh to /Users/YOUR_USER_NAME_HERE/Library/Scripts
     ! If the folder "Scripts" does not exist in Library, please create it first
