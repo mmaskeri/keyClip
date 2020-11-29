@@ -8,6 +8,8 @@ Provides round-trip editing between post-Keynote '09 versions and ChemDraw
 
 Known issues: CDXML copied from Keynote via keyClip preserves the document formatting (canvas size, etc.) of the original source ChemDraw document.  This includes the scheme's original location in that document.  It is recommended to paste keyClip'd schemes into a new "receiving" document before integrating with existing ChemDraw documents.
 
+_Functionality with ChemDraw 20 and Big Sur are currently uncertain._
+
 keyClip is best used with user-set keyboard shortcuts.  Since keyClip retrieves the scheme information in form of CDXML, either the ChemDraw shortcut for pasting CDXML (shift/option/command/p) or the Service packaged with keyClip (ChemDraw_CDXML, see below) which allows the user to set that shortcut must be used.
 
 Setup
