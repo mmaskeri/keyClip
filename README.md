@@ -89,3 +89,6 @@ If Terminal close errors persist:
     - Save and exit
     
 If keyClip does not find a CDXML object--an error will flash up on screen--verify that the Keynote object in question is ungrouped and was a ChemDraw object to begin with.
+
+## Thanks
+Thanks to DRK and JLZ for testing!
