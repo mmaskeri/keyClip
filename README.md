@@ -91,4 +91,4 @@ If Terminal close errors persist:
 If keyClip does not find a CDXML object--an error will flash up on screen--verify that the Keynote object in question is ungrouped and was a ChemDraw object to begin with.
 
 ## Thanks
-Thanks to DRK and JLZ for testing!
+Thanks to DRK (testing/troubleshooting, identification of keyClip5 Big Sur functionality) and JLZ (testing)!
