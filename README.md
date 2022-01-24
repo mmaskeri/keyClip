@@ -19,8 +19,8 @@ keyClip is best used with user-set keyboard shortcuts.  **For ChemDraw 18 or ear
     ! Additional Accessibility privileges may need to be granted to Keynote, Terminal, and ChemDraw
 
 2. Select an OS flavor of keyClip:
-### Big Sur
-*Users have reported that a legacy version of keyClip, keyClip5, functions in Big Sur while the latest version (keyClip6) does not.*
+### Big Sur and Monterey
+*Users have reported that a legacy version of keyClip, keyClip5, functions in Big Sur and Monterey while the latest version (keyClip6) does not.*
 *This version should work on earlier OS versions, but may be marginally slower than keyClip6.*
 
 3. Move the keyClip5_workflow.workflow file into your /Users/YOUR_USER_NAME_HERE/Library/Services. If using, also move ChemDraw_CDXML.workflow to this directory. keyClip5 is a self-contained workflow and does not require additional script files.
@@ -68,7 +68,7 @@ keyClip is best used with user-set keyboard shortcuts.  **For ChemDraw 18 or ear
 ## Usage
 Select the _ungrouped_ scheme desired in Keynote and use the shortcut established in step 4 above.  A Terminal window should open, run the script, and close.  If this is the first time using the script, or if there is a heavy processor load, the Terminal may prompt a close error.  Keep Terminal active in your Dock to avoid this.  If these errors persist, see below.
 
-**For keyClip5 (Big Sur):** A small rotating gear icon will appear in the menu bar. When this icon vanishes, if no error appears, proceed to paste the keyClip'd structure into ChemDraw.
+**For keyClip5 (Big Sur and Monterey):** A small rotating gear icon will appear in the menu bar. When this icon vanishes, if no error appears, proceed to paste the keyClip'd structure into ChemDraw.
 
 Please note that, while the scripts may be edited to allow keyClip to run in the background, these edits produce undefined behavior with regards to text symbols (e.g. degree symbol, negative sign, Greek characters, etc.).
 
