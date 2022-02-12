@@ -15,8 +15,8 @@ keyClip is best used with user-set keyboard shortcuts.  **For ChemDraw 18 or ear
     - Open System Preferences > Security & Privacy > Privacy
     - Open the "Accessibility" panel from the left list
     - Add the app `Automator` to the right list, checking the box
-    ! This is necessary for the keyClip script to automate required keystrokes
-    ! Additional Accessibility privileges may need to be granted to Keynote, Terminal, and ChemDraw
+        - This is necessary for the keyClip script to automate required keystrokes
+        - Additional Accessibility privileges may need to be granted to Keynote, Terminal, and ChemDraw
 
 2. Select an OS flavor of keyClip:
 ### Big Sur and Monterey
@@ -32,12 +32,12 @@ keyClip is best used with user-set keyboard shortcuts.  **For ChemDraw 18 or ear
     - Add desired shortcuts for keyClip5_workflow and, if using, ChemDraw_CDXML
        - click on `none`, then `Add Shortcut`
        - press keys of desired shortcut simultaneously
-       ! recommended shortcuts:
+       - recommended shortcuts:
           - keyClip5_workflow: shift option command c
           - ChemDraw_CDXML: option command v
-       ! These shortcuts do not collide with existing Keynote or ChemDraw
+       - These shortcuts do not collide with existing Keynote or ChemDraw
          shortcuts, and therefore are recommended
-       ! ChemDraw_CDXML is not needed for ChemDraw 19 or later (see above)
+       - ChemDraw_CDXML is not needed for ChemDraw 19 or later (see above)
 
 ### Earlier OSX versions
 3. Move these files to /Users/YOUR_USER_NAME_HERE/Library/Services:
