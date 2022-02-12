@@ -45,11 +45,11 @@ keyClip is best used with user-set keyboard shortcuts.  **For ChemDraw 18 or ear
     - keyClip_workflow
 
 4. Move keyClip6.sh to /Users/YOUR_USER_NAME_HERE/Library/Scripts
-    ! If the folder "Scripts" does not exist in Library, please create it first
+    - If the folder "Scripts" does not exist in Library, please create it first
 
 5. Open Terminal, type "sudo chmod +x ~/Library/Scripts/keyClip6.sh"
     - enter your password
-    ! this gives the primary script permission to run on your machine
+        - this gives the primary script permission to run on your machine
 
 6. Set up keyboard shortcuts
     - Open System Preferences > Keyboard > Shortcuts
@@ -58,10 +58,10 @@ keyClip is best used with user-set keyboard shortcuts.  **For ChemDraw 18 or ear
     - Add desired shortcuts for keyClip_workflow and ChemDraw_CDXML
        - click on `none`, then `Add Shortcut`
        - press keys of desired shortcut simultaneously
-       ! recommended shortcuts:
+       - recommended shortcuts:
           - keyClip_workflow: shift option command c
           - ChemDraw_CDXML: option command v
-       ! These shortcuts do not collide with existing Keynote or ChemDraw
+       - These shortcuts do not collide with existing Keynote or ChemDraw
          shortcuts, and therefore are recommended
 
 
